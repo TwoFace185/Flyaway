@@ -1,0 +1,15 @@
+.navbar{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-between;
+	text-align:center;
+	position:relative;
+	
+}
+.navbar h1{
+	padding-left:550px;
+}
+.navbar a{
+	margin-top:5px;
+}
+
